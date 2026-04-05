@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██╗  ██╗███████╗███╗   ██╗ █████╗ ███╗   ██╗
-██║ ██╔╝██╔════╝████╗  ██║██╔══██╗████╗  ██║
-█████╔╝ █████╗  ██╔██╗ ██║███████║██╔██╗ ██║
-██╔═██╗ ██╔══╝  ██║╚██╗██║██╔══██║██║╚██╗██║
-██║  ██╗███████╗██║ ╚████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
+██╗  ██╗███████╗███╗   ██╗ ██████╗ 
+██║ ██╔╝██╔════╝████╗  ██║██╔═══██╗
+█████╔╝ █████╗  ██╔██╗ ██║██║   ██║
+██╔═██╗ ██╔══╝  ██║╚██╗██║██║   ██║
+██║  ██╗███████╗██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
 ### Hey, I'm Kenan 👋
@@ -33,7 +33,7 @@ kenan = {
     "education": ["Odlar Yurdu University — IT (GPA 95+)",
                   "Div Academy — Full Stack Web Dev"],
     "passion":   ["backend systems", "API design", "problem solving"],
-    "fun_fact":  "Ranked 71st/157 teams at ICPC Azerbaijan 🏆"
+    "fun_fact":  "Ranked 41st/157 teams at ICPC Azerbaijan 🏆"
 }
 ```
 
@@ -66,23 +66,6 @@ kenan = {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 🏫 University Schedule & Lost-and-Found Web App
-> *Identified a real problem → built a real solution*
-
-A responsive web app that automatically updates daily class schedules for university students. Features include:
-
-- 📅 **Auto-updating schedule** — always current, no manual updates needed
-- 💬 **Group comment section** — student communication hub
-- 📚 **Course materials upload** — academic resources in one place
-- 🔍 **Admin panel for Lost & Found** — managed by class monitors
-- 🎮 **2 Unity-based 2D mini-games** — because why not make it fun
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://kenox7.github.io/Cedvel/)
 
 ---
 
@@ -129,7 +112,7 @@ A responsive web app that automatically updates daily class schedules for univer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keno.akhmadov/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=google&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
 
 ---
 
