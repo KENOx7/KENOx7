@@ -88,8 +88,6 @@ kenan = {
  
 <div align="center">
  
-<br/>
- 
 <img src="https://streak-stats.demolab.com/?user=KENOx7&theme=tokyonight&hide_border=true" />
  
 </div>
