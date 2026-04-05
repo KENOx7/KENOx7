@@ -9,10 +9,16 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-### Hey, I'm Kenan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kenan+%F0%9F%91%8B;Full+Stack+Developer;18+y%2Fo+%C2%B7+Baku%2C+Azerbaijan+%F0%9F%87%A6%F0%9F%87%BF;Building+things+that+actually+work." alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+<img src="https://media4.giphy.com/media/l0FRolhJdFrBxpi2hg/200w.gif" width="110" align="right" />
+
 **Full Stack Developer** · 18 y/o · Baku, Azerbaijan 🇦🇿
 
-*Building things that actually work — from APIs to UIs.*
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KENOx7&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/KENOx7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
@@ -73,7 +79,7 @@ kenan = {
 
 | 🥇 | Achievement | Result |
 |---|---|---|
-| 🤖 | **ICPC Azerbaijan 2026** | 71st / 157 teams → Advanced to Regional (50th place) |
+| 🤖 | **ICPC Azerbaijan 2026** | 41st / 157 teams → Advanced to Regional (50th place) | 2 certificates earned |
 | 🎯 | **ICPC Azerbaijan 2025** | 2 certificates earned |
 | 🔥 | **FireLand Hackathon — AI** | Top 5 / 60+ teams → Finals (Top 20) |
 | ⚡ | **Sumgayıt Cup 2** | 21st place overall |
@@ -85,11 +91,12 @@ kenan = {
 
 <div align="center">
 
-![Kenan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KENOx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=KENOx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENOx7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KENOx7&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KENOx7&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=KENOx7&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -112,10 +119,10 @@ kenan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keno.akhmadov/)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=google&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
 
 ---
 
-*"First solve the problem, then write the code."*
+*— by KENO*
 
 </div>
