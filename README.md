@@ -110,7 +110,6 @@ kenan = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keno.akhmadov/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
 
 ---
