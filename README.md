@@ -9,12 +9,9 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kenan;Full+Stack+Developer;18+y%2Fo+%C2%B7+Baku%2C+Azerbaijan+%F0%9F%87%A6%F0%9F%87%BF;Building+things+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kenan" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-<img src="https://media4.giphy.com/media/l0FRolhJdFrBxpi2hg/200w.gif" width="110" align="right" />
+<img src="https://media4.giphy.com/media/l0FRolhJdFrBxpi2hg/200w.gif" width="110" />
 
 **Full Stack Developer** · 18 y/o · Baku, Azerbaijan 🇦🇿
 
