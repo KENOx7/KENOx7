@@ -19,7 +19,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KENOx7&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/KENOx7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/keno.akhmadov/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
 
 </div>
