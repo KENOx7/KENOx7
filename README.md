@@ -1,11 +1,13 @@
 <div align="center">
-
+ 
+```
 ██╗  ██╗███████╗███╗   ██╗ ██████╗ 
 ██║ ██╔╝██╔════╝████╗  ██║██╔═══██╗
 █████╔╝ █████╗  ██╔██╗ ██║██║   ██║
 ██╔═██╗ ██╔══╝  ██║╚██╗██║██║   ██║
 ██║  ██╗███████╗██║ ╚████║╚██████╔╝
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ 
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kenan" alt="Typing SVG" />
 
@@ -83,18 +85,24 @@ kenan = {
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KENOx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENOx7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+ 
+<a href="https://github.com/KENOx7">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KENOx7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENOx7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+ 
 <br/>
-
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KENOx7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+ 
+<br/>
+ 
 <img src="https://streak-stats.demolab.com/?user=KENOx7&theme=tokyonight&hide_border=true" />
-
+ 
 </div>
-
+ 
 ---
 
 ## 🌍 Languages
