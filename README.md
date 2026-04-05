@@ -95,10 +95,6 @@ kenan = {
  
 <br/>
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KENOx7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
- 
-<br/>
- 
 <img src="https://streak-stats.demolab.com/?user=KENOx7&theme=tokyonight&hide_border=true" />
  
 </div>
