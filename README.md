@@ -88,13 +88,13 @@ kenan = {
 
 ## 🚀 Featured Projects
 
-### 🎮 [Epic Games Store Clone](https://github.com/KENOx7/Epic-Games)
+### [Epic Games Store Clone](https://github.com/KENOx7/Epic-Games)
 Div Academy Frontend Final Exam — **Score: 96/100**
 A fully responsive Epic Games Store clone built with **React.js**. Implemented **Firebase Authentication** for secure login/registration, managed state with **Zustand**, and integrated REST APIs via **Axios**. Focused on performance, responsive design, and clean component architecture.
 
 `React.js` `Firebase` `Zustand` `Axios`
 
-### 👻 Signal Lost
+### [Signal Lost](https://kenox7.itch.io/signallost)
 A Unity horror game built during the **OYU GameDev Bootcamp**, ranked **8th** in the competition.
 
 `Unity` `C#` `Game Dev`
