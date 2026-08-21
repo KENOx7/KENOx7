@@ -13,7 +13,7 @@
 
 <img src="https://media4.giphy.com/media/l0FRolhJdFrBxpi2hg/200w.gif" width="110" />
 
-**Junior Full Stack Developer** · 18 y/o · Baku, Azerbaijan 🇦🇿
+**Junior Full Stack Developer** · 19 y/o · Baku, Azerbaijan 🇦🇿
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ```python
 kenan = {
-    "age":       18,
+    "age":       19,
     "location":  "Baku, Azerbaijan 🇦🇿",
     "role":      "Junior Full Stack Developer",
     "summary":   "Building responsive web apps, REST APIs, auth systems "
