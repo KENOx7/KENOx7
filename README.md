@@ -20,7 +20,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=KENOx7&color=0e75b6&style=flat&label=Profile+Views)](https://github.com/KENOx7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanan-akhmadov-774647291/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kenan777ehmedov@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+994_50_776_62_63-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+994507766263)
 
 </div>
 
